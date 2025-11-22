@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.XavierCanadas:random-word-slugs-java:v1.0.0")
+    implementation("com.github.XavierCanadas:random-word-slugs-java:v1.0.1")
 }
 ```
 
@@ -44,7 +44,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.XavierCanadas:random-word-slugs-java:v1.0.0'
+    implementation 'com.github.XavierCanadas:random-word-slugs-java:v1.0.1'
 }
 ```
 
@@ -63,7 +63,7 @@ For Maven (`pom.xml`):
 <dependency>
     <groupId>com.github.XavierCanadas</groupId>
     <artifactId>random-word-slugs-java</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.0.1</version>
 </dependency>
 </dependencies>
 ```
