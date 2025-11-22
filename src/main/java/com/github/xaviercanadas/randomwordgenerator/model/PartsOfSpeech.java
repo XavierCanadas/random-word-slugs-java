@@ -6,7 +6,7 @@
  * Copyright (c) 2025. All rights reserved.
  */
 
-package xaviercanadas.model;
+package com.github.xaviercanadas.randomwordgenerator.model;
 
 public enum PartsOfSpeech {
     NOUN,
