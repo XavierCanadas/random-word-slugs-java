@@ -2,8 +2,8 @@ plugins {
     id("java")
 }
 
-group = "xaviercanadas"
-version = "1.0-SNAPSHOT"
+group = "com.github.xaviercanadas"
+version = "1.0.0"
 
 repositories {
     mavenCentral()
