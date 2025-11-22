@@ -1,5 +1,8 @@
 # Random Word Slug Generator - Java
 
+[![Run Tests](https://github.com/XavierCanadas/random-word-slugs-java/actions/workflows/tests.yml/badge.svg)](https://github.com/XavierCanadas/random-word-slugs-java/actions/workflows/tests.yml)
+[![](https://jitpack.io/v/XavierCanadas/random-word-slugs-java.svg)](https://jitpack.io/#XavierCanadas/random-word-slugs-java)
+
 A Java library for generating random, human-readable word combinations with customizable formatting and category
 filtering. Perfect for creating unique identifiers, usernames, project names, or any scenario requiring memorable random
 text.
@@ -22,7 +25,6 @@ With the default configuration it can produce almost 30 million unique combinati
 
 ### Using JitPack
 
-[![](https://jitpack.io/v/XavierCanadas/random-word-slugs-java.svg)](https://jitpack.io/#XavierCanadas/random-word-slugs-java)
 
 Add the JitPack repository and dependency to your `build.gradle.kts`:
 
