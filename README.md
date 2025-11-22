@@ -22,6 +22,8 @@ With the default configuration it can produce almost 30 million unique combinati
 
 ### Using JitPack
 
+[![](https://jitpack.io/v/XavierCanadas/random-word-slugs-java.svg)](https://jitpack.io/#XavierCanadas/random-word-slugs-java)
+
 Add the JitPack repository and dependency to your `build.gradle.kts`:
 
 ```kotlin
