@@ -1,7 +1,16 @@
+/*
+ * WordDatabaseTest.java
+ * RandomWordGenerator
+ *
+ * Created by Xavier Cañadas on 22/11/2025
+ * Copyright (c) 2025. All rights reserved.
+ */
 
-import com.github.xaviercanadas.randomwordgenerator.data.WordDatabase;
-import com.github.xaviercanadas.randomwordgenerator.model.Category;
-import com.github.xaviercanadas.randomwordgenerator.model.PartsOfSpeech;
+package data;
+
+import com.github.xaviercanadas.randomwordslugs.data.WordDatabase;
+import com.github.xaviercanadas.randomwordslugs.model.Category;
+import com.github.xaviercanadas.randomwordslugs.model.PartsOfSpeech;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

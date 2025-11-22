@@ -1,6 +1,15 @@
+/*
+ * WordTest.java
+ * RandomWordGenerator
+ *
+ * Created by Xavier Cañadas on 22/11/2025
+ * Copyright (c) 2025. All rights reserved.
+ */
 
-import com.github.xaviercanadas.randomwordgenerator.model.Category;
-import com.github.xaviercanadas.randomwordgenerator.model.Word;
+package model;
+
+import com.github.xaviercanadas.randomwordslugs.model.Category;
+import com.github.xaviercanadas.randomwordslugs.model.Word;
 
 
 import org.junit.jupiter.api.Test;

@@ -6,13 +6,13 @@
  * Copyright (c) 2025. All rights reserved.
  */
 
-package com.github.xaviercanadas.randomwordgenerator.generator;
+package com.github.xaviercanadas.randomwordslugs.generator;
 
-import com.github.xaviercanadas.randomwordgenerator.data.WordDatabase;
-import com.github.xaviercanadas.randomwordgenerator.model.Case;
-import com.github.xaviercanadas.randomwordgenerator.model.Category;
-import com.github.xaviercanadas.randomwordgenerator.model.PartsOfSpeech;
-import com.github.xaviercanadas.randomwordgenerator.util.Formatter;
+import com.github.xaviercanadas.randomwordslugs.data.WordDatabase;
+import com.github.xaviercanadas.randomwordslugs.model.Case;
+import com.github.xaviercanadas.randomwordslugs.model.Category;
+import com.github.xaviercanadas.randomwordslugs.model.PartsOfSpeech;
+import com.github.xaviercanadas.randomwordslugs.util.Formatter;
 
 import java.util.*;
 

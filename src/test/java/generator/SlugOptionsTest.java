@@ -6,10 +6,10 @@
  * Copyright (c) 2025. All rights reserved.
  */
 
-import com.github.xaviercanadas.randomwordgenerator.generator.SlugOptions;
-import com.github.xaviercanadas.randomwordgenerator.model.Case;
-import com.github.xaviercanadas.randomwordgenerator.model.Category;
-import com.github.xaviercanadas.randomwordgenerator.model.PartsOfSpeech;
+package generator;import com.github.xaviercanadas.randomwordslugs.generator.SlugOptions;
+import com.github.xaviercanadas.randomwordslugs.model.Case;
+import com.github.xaviercanadas.randomwordslugs.model.Category;
+import com.github.xaviercanadas.randomwordslugs.model.PartsOfSpeech;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

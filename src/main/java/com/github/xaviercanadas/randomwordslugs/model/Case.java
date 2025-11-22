@@ -6,7 +6,7 @@
  * Copyright (c) 2025. All rights reserved.
  */
 
-package com.github.xaviercanadas.randomwordgenerator.model;
+package com.github.xaviercanadas.randomwordslugs.model;
 
 public enum Case {
     /**

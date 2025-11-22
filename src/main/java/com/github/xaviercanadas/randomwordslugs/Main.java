@@ -6,12 +6,12 @@
  * Copyright (c) 2025. All rights reserved.
  */
 
-package com.github.xaviercanadas.randomwordgenerator;
+package com.github.xaviercanadas.randomwordslugs;
 
-import com.github.xaviercanadas.randomwordgenerator.generator.SlugGenerator;
-import com.github.xaviercanadas.randomwordgenerator.generator.SlugOptions;
-import com.github.xaviercanadas.randomwordgenerator.model.Case;
-import com.github.xaviercanadas.randomwordgenerator.model.Category;
+import com.github.xaviercanadas.randomwordslugs.generator.SlugGenerator;
+import com.github.xaviercanadas.randomwordslugs.generator.SlugOptions;
+import com.github.xaviercanadas.randomwordslugs.model.Case;
+import com.github.xaviercanadas.randomwordslugs.model.Category;
 
 
 public class Main {

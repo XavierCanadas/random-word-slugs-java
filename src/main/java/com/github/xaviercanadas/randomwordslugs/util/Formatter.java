@@ -6,9 +6,9 @@
  * Copyright (c) 2025. All rights reserved.
  */
 
-package com.github.xaviercanadas.randomwordgenerator.util;
+package com.github.xaviercanadas.randomwordslugs.util;
 
-import com.github.xaviercanadas.randomwordgenerator.model.Case;
+import com.github.xaviercanadas.randomwordslugs.model.Case;
 
 import java.util.List;
 

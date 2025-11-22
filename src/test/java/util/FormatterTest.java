@@ -1,6 +1,15 @@
+/*
+ * FormatterTest.java
+ * RandomWordGenerator
+ *
+ * Created by Xavier Cañadas on 22/11/2025
+ * Copyright (c) 2025. All rights reserved.
+ */
 
-import com.github.xaviercanadas.randomwordgenerator.util.Formatter;
-import com.github.xaviercanadas.randomwordgenerator.model.Case;
+package util;
+
+import com.github.xaviercanadas.randomwordslugs.util.Formatter;
+import com.github.xaviercanadas.randomwordslugs.model.Case;
 
 import org.junit.jupiter.api.Test;
 
