@@ -1,1 +1,1 @@
-rootProject.name = "RandomWordGenerator"
+rootProject.name = "random-word-slugs-java"
