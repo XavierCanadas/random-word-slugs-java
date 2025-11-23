@@ -10,7 +10,7 @@ text.
 ## Description
 
 Random Word Slugs generates combinations like `"happy-little-cat"`, `"braveBlueElephant"`, or `"Clever Fast Robot"` by
-intelligently combining adjectives and nouns from a curated database of over 700 words across 30+ categories.
+intelligently combining adjectives and nouns from a curated database of over 600 words across 25+ categories.
 With the default configuration it can produce almost 30 million unique combinations.
 
 ### Features
@@ -255,7 +255,7 @@ random-word-slugs-java/
 
 - **`SlugGenerator`** - Main entry point for generating slugs
 - **`SlugOptions`** - Builder pattern for configuring generation options
-- **`WordDatabase`** - Contains 400+ nouns and 300+ adjectives across 30+ categories
+- **`WordDatabase`** - Contains 300+ nouns and 300+ adjectives across 25+ categories
 - **`Formatter`** - Handles text case transformations
 - **`Word`** - Immutable data model for words with categories
 - **Model Classes** - Type-safe enums for categories, formats, and parts of speech
@@ -280,3 +280,8 @@ project.
 ### Requirements
 
 - **Java**: 21 or higher.
+
+
+_
+ç+ç++¡¡'``p`p0`-------
+
