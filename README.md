@@ -280,8 +280,3 @@ project.
 ### Requirements
 
 - **Java**: 21 or higher.
-
-
-_
-ç+ç++¡¡'``p`p0`-------
-
